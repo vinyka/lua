@@ -4,7 +4,7 @@ function teste(x, y)
 	z=("number")
 	print("Digite Os valores: ")
 	print("Após isto digite o operador 1 : + 2: -")
-	n = io.read(*umber)
+	n = io.read(*number)
 	n = io.read(m)
 	if m == 1 then
 		z = (x + y)
